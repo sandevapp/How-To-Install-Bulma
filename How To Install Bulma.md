@@ -1,10 +1,14 @@
 Method 1 : Using  NPM (recommended):
 		
-	Step 1: Install using node_modules
+	Step 1: Install npm
+		
+			npm install
+	
+	Step 2: Install using node_modules
 
 			npm install bulma
 
-	Step 2: import to sass folder
+	Step 3: import to sass folder
 
 			@import "node_modules/bulma/bulma"
 
